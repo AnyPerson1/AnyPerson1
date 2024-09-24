@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @AnyPerson1
-- 👀 I’m interested in coding game
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ? you can`t reach me.
+hell.
 
 <!---
 AnyPerson1/AnyPerson1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
