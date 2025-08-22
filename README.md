@@ -16,8 +16,8 @@
     I'm just an INFP who doesn't talk much — unless you're one of the very few close friends I vibe with.
 
     I'm open to work, but right now I'm already busy:
-    - Working with a Knight Online server (EUROKO)
-    - Developing my own macro manager called **LUCID**
+    - Creating an AI assistant called L.U.C.I.D
+    - Developing my own macro manager called Wraith
 
     I always have time — I just waste it on dumb, fun things.  
     Like writing an audio interface using C++ inline assembly... for no reason.
