@@ -10,7 +10,7 @@
     Some people might call it gray hat stuff — I prefer "just curious, never malicious".
 
     I like metal. So does my guitar.  
-    If you're into progressive metal (think Limp Bizkit, System of a Down, etc.), hit me up and let's build something weird together.
+    If you're into progressive metal (think Lamb of God, Slipknot), hit me up and let's build something weird together.
 
     Honestly, I have no idea what to write here.  
     I'm just an INFP who doesn't talk much — unless you're one of the very few close friends I vibe with.
